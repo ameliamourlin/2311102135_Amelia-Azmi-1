@@ -10,7 +10,6 @@ struct Mahasiswa{
 };
 
 int main(){
-    // menggunakan struct
     struct Mahasiswa mhs1, mhs2;
     // mengisi nilai ke struct
     strcpy(mhs1.name, "Dian");
